@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@flexui-io/flexui-components": "^1.0.57",
+    "@flexui-io/flexui-components": "^1.0.86",
     "next": "14.0.1",
     "react": "^18",
     "react-dom": "^18"
